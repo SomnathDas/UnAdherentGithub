@@ -1,0 +1,38 @@
+li {
+  font-family: "Monospace", serif;
+}
+
+.error-moment {
+  height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  gap: 2rem;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.error-moment .to-dolist {
+  text-align: center;
+  line-height: 2rem;
+  font-size: 1rem;
+}
+
+@media screen and (max-width: 554px) {
+  .error-moment {
+    padding: 1rem;
+  }
+  .error-moment .to-dolist {
+    line-height: 2rem;
+    font-size: 1rem;
+  }
+}
+/*# sourceMappingURL=App.css.map */
