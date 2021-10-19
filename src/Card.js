@@ -13,7 +13,7 @@ export default function Card({ githubUserId, username }) {
       <div className="card-author">
         <a
           className="author-avatar"
-          href={`https://www.github.com/${username}}`}
+          href={`https://www.github.com/${username}`}
         >
           <img
             style={isImageLoaded ? {} : { display: "none" }}
