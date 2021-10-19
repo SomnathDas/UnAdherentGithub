@@ -13,7 +13,7 @@ export default function Card({ githubUserId, username }) {
       <div className="card-author">
         <a
           className="author-avatar"
-          href={`https://www.github.com/${username}`}
+          href={`https://www.github.com/${username}}`}
         >
           <img
             style={isImageLoaded ? {} : { display: "none" }}
@@ -22,9 +22,13 @@ export default function Card({ githubUserId, username }) {
             onLoad={() => setIsImageLoaded(true)}
             alt="A Person"
           />
-          <svg class="half-circle" viewBox="0 0 106 57">
-            <path d="M102 4c0 27.1-21.9 49-49 49S4 31.1 4 4"></path>
-          </svg>
+          {isImageLoaded === true ? (
+            <svg class="half-circle" viewBox="0 0 106 57">
+              <path d="M102 4c0 27.1-21.9 49-49 49S4 31.1 4 4"></path>
+            </svg>
+          ) : (
+            ""
+          )}
         </a>
       </div>
     </article>
