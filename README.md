@@ -8,12 +8,12 @@
 
 <h4 align="center">Find who is not following you on Github.</h4>
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<div align="center">
+            <a href="https://github.com/SomnathDas/UnAdherentGithub/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/SomnathDas/UnAdherentGithub?style=for-the-badge"></a>
+  <a href="https://github.com/SomnathDas/UnAdherentGithub/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/SomnathDas/UnAdherentGithub?style=for-the-badge"></a>
+  <a href="https://github.com/SomnathDas/UnAdherentGithub/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/SomnathDas/UnAdherentGithub?style=for-the-badge"></a>
+  <a href="https://github.com/SomnathDas/UnAdherentGithub/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/SomnathDas/UnAdherentGithub?style=for-the-badge"></a>
+</div>
 
 
 <p align="center">
@@ -71,17 +71,3 @@ Mozilla Public License
 
 > GitHub [@SomnathDas](https://github.com/SomnathDas) &nbsp;&middot;&nbsp;
 > Instagram [@samurai3247](https://www.instagram.com/samurai3247/)
-
-[contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
-[contributors-url]: https://github.com/SomnathDas/UnAdherentGithub/contributors
-[forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
-[forks-url]: https://github.com/SomnathDas/UnAdherentGithub/network/members
-[stars-shield]: https://img.shields.io/github/stars/othneildrew/Best-README-Template.svg?style=for-the-badge
-[stars-url]: https://github.com/SomnathDas/UnAdherentGithub/stargazers
-[issues-shield]: https://img.shields.io/github/issues/othneildrew/Best-README-Template.svg?style=for-the-badge
-[issues-url]: https://github.com/SomnathDas/UnAdherentGithub/issues
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[license-url]: https://github.com/SomnathDas/UnAdherentGithub/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
